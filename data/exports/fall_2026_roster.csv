@@ -1,0 +1,51 @@
+student_id,first_name,last_name,date_of_birth,grade,homeroom,student_email,guardian_name,guardian_email,guardian_phone,iep,lunch_status
+8518545,Yara,Russell,2014-12-19,7,D159,yara.russell14@pinecrest-k12.org,Olivia Russell,oliviarussell17@cinderwire.net,210-958-8139,False,paid
+2992282,Elijah,Cruz,2013-04-29,8,D318,elijah.cruz13@pinecrest-k12.org,Maya Delgado,delgado.maya@tidalbox.net,737-958-2868,False,reduced
+7816545,Isaiah,Ortiz,2012-04-06,9,C282,isaiah.ortiz12@pinecrest-k12.org,Priya Edwards,pedwards83@maplewire.net,(919) 959-3777,False,paid
+1592264,Valeria,Kaur,2015-06-28,6,C220,valeria.kaur15@pinecrest-k12.org,Diego Perez,perez.diego@cobaltletters.com,(281) 959-4887,True,reduced
+2844999,Daniel,Boateng,2010-07-06,11,B192,daniel.boateng10@pinecrest-k12.org,Priya Boateng,pboateng89@willowdispatch.net,972-959-1956,False,free
+6428380,Amara,Okafor,2016-11-30,5,E162,amara.okafor16@pinecrest-k12.org,Noah Okafor,nokafor87@birchinbox.net,786-959-0851,False,reduced
+5564083,Santiago,Washington,2013-12-15,8,E130,santiago.washington13@pinecrest-k12.org,Josiah Washington,josiah.washington@tidalbox.net,(737) 959-3081,False,paid
+9810420,Quinn,Rivera,2014-09-20,7,D271,quinn.rivera14@pinecrest-k12.org,Elijah Gupta,elijah_gupta5@quillnote.net,480-958-0306,False,paid
+6280055,Zoe,Chen,2012-12-03,9,D119,zoe.chen12@pinecrest-k12.org,Caleb Ramirez,calebramirez9@slatedispatch.net,(206) 958-0516,False,reduced
+2445348,Emily,Garcia,2016-04-22,5,D316,emily.garcia16@pinecrest-k12.org,Lucas Garcia,lucas.garcia@heronmail.net,(615) 959-4455,False,paid
+7095792,Jayden,Simmons,2013-03-16,8,C165,jayden.simmons13@pinecrest-k12.org,Amara Simmons,amarasimmons84@birchdispatch.net,817-959-9348,False,reduced
+2248915,Ruby,Hughes,2015-01-30,6,C136,ruby.hughes15@pinecrest-k12.org,Keanu Hughes,keanu.hughes@quillnote.net,773-958-4352,False,free
+6179985,Delilah,Tran,2010-10-22,11,D109,delilah.tran10@pinecrest-k12.org,Layla Anderson,landerson86@cinderinbox.net,(214) 958-3090,False,paid
+9308613,Tyler,Patel,2011-02-27,10,C102,tyler.patel11@pinecrest-k12.org,Olivia Patel,olivia.patel@asterwire.net,704-959-6526,False,free
+3256846,Jackson,Garcia,2013-04-11,8,B244,jackson.garcia13@pinecrest-k12.org,Aisha Garcia,garcia.aisha@cinderinbox.net,512-958-3951,False,reduced
+4458651,Jackson,Reyes,2015-05-13,6,C317,jackson.reyes15@pinecrest-k12.org,Yusuf Kowalski,yusuf_kowalski3@slatedispatch.net,704-958-7235,False,free
+5269725,Maria,Bennett,2013-02-24,8,E147,maria.bennett13@pinecrest-k12.org,Jada Bennett,jada.bennett@tidalletters.com,(404) 959-9052,True,free
+7808027,Maya,Gupta,2015-08-18,6,D216,maya.gupta15@pinecrest-k12.org,Yusuf Gupta,gupta.yusuf@tidalbox.net,214-958-1130,False,reduced
+3214021,Josiah,Zhang,2014-11-29,7,E299,josiah.zhang14@pinecrest-k12.org,Andre Zhang,andre_zhang3@heronwire.net,(214) 958-0384,False,paid
+9376926,Elena,Simmons,2016-07-31,5,E301,elena.simmons16@pinecrest-k12.org,Omar Simmons,osimmons89@tidalletters.com,206-958-3572,False,paid
+2363448,Hector,Garcia,2012-04-22,9,C129,hector.garcia12@pinecrest-k12.org,Caleb Garcia,caleb.garcia@cinderdispatch.net,(480) 958-2523,True,reduced
+7226327,Elijah,Kowalski,2016-08-14,5,C183,elijah.kowalski16@pinecrest-k12.org,Anika Kowalski,kowalski.anika@tidalbox.net,303-959-0112,True,reduced
+3791977,Camila,Zhang,2015-03-14,6,E145,camila.zhang15@pinecrest-k12.org,Aisha Zhang,aisha.zhang@willowdispatch.net,(281) 958-5406,False,paid
+9896685,Valeria,Kaur,2011-07-17,10,B178,valeria.kaur11@pinecrest-k12.org,Hannah Delgado,hannah.delgado@cinderinbox.net,(972) 958-8046,False,reduced
+2082203,Zoe,Bennett,2015-12-27,6,B113,zoe.bennett15@pinecrest-k12.org,Ava Quintero,quintero.ava@slatedispatch.net,206-958-7401,False,free
+3903704,Jasmine,Simmons,2011-06-29,10,E148,jasmine.simmons11@pinecrest-k12.org,Xavier Sullivan,sullivan.xavier@birchdispatch.net,(512) 959-7837,True,paid
+7099078,Ethan,Kowalski,2013-12-06,8,D287,ethan.kowalski13@pinecrest-k12.org,Mason Sanchez,mason_sanchez1@slatedispatch.net,720-958-8304,False,reduced
+6008839,Gabriel,Vasquez,2012-08-06,9,C306,gabriel.vasquez12@pinecrest-k12.org,Amara Ibarra,ibarra.amara@cinderwire.net,602-958-6017,False,reduced
+8601025,Mateo,Quintero,2013-03-13,8,A241,mateo.quintero13@pinecrest-k12.org,Isaiah Quintero,isaiah.quintero@quillnote.net,602-959-3669,False,free
+7967335,Tyler,Kim,2016-07-28,5,C205,tyler.kim16@pinecrest-k12.org,Samuel Flores,sflores73@cobaltletters.com,(469) 959-6958,False,paid
+6417637,Aaliyah,Ferreira,2010-08-03,11,A198,aaliyah.ferreira10@pinecrest-k12.org,Andre Ferreira,andre_ferreira4@quillnote.net,305-958-6501,False,paid
+4144460,Nathan,Ramirez,2012-04-25,9,E310,nathan.ramirez12@pinecrest-k12.org,Jayden Ramirez,jayden_ramirez8@cinderinbox.net,(404) 958-8772,False,paid
+5967370,Josiah,Nguyen,2015-06-19,6,C206,josiah.nguyen15@pinecrest-k12.org,Ruby Nguyen,ruby.nguyen@birchinbox.net,(407) 959-9611,False,free
+9094803,Jayden,Bennett,2015-05-18,6,C126,jayden.bennett15@pinecrest-k12.org,Mateo Okafor,mateo.okafor@birchinbox.net,(817) 959-9236,False,free
+8354334,Rohan,Thompson,2011-08-19,10,C167,rohan.thompson11@pinecrest-k12.org,Wyatt Thompson,wthompson82@quillnote.net,(407) 958-4255,False,free
+9132601,Elena,Hayes,2010-06-06,11,A289,elena.hayes10@pinecrest-k12.org,Malik Hayes,malik_hayes8@cinderwire.net,(713) 958-2007,False,paid
+8024422,Kevin,Flores,2011-06-01,10,C290,kevin.flores11@pinecrest-k12.org,Owen Flores,oflores87@maplewire.net,832-959-5801,False,paid
+6397763,Keanu,Gonzalez,2012-05-11,9,B108,keanu.gonzalez12@pinecrest-k12.org,Elijah Gonzalez,gonzalez.elijah@heronwire.net,(407) 959-5463,False,paid
+3877761,Yusuf,Nakamura,2010-01-01,11,E313,yusuf.nakamura10@pinecrest-k12.org,Xavier Nakamura,xnakamura98@tidalbox.net,(602) 959-8004,False,paid
+6256096,Nathan,Boateng,2015-11-18,6,D225,nathan.boateng15@pinecrest-k12.org,Yusuf Boateng,yboateng89@cobaltletters.com,(469) 958-1516,False,paid
+2314368,Maria,Williams,2015-04-10,6,E189,maria.williams15@pinecrest-k12.org,Diego Williams,diego.williams@cinderinbox.net,(737) 958-9160,False,reduced
+2678948,Anika,Mitchell,2012-04-06,9,E275,anika.mitchell12@pinecrest-k12.org,Daniel Mitchell,daniel.mitchell@birchinbox.net,972-959-0137,False,reduced
+6797278,Hector,Bennett,2014-06-19,7,A159,hector.bennett14@pinecrest-k12.org,Delilah Bennett,delilahbennett35@birchletters.com,281-958-2359,False,free
+3008367,Nathan,Lopez,2013-02-08,8,A223,nathan.lopez13@pinecrest-k12.org,Aaliyah Lopez,aaliyah.lopez@heronwire.net,832-959-8280,True,free
+5345654,Samuel,Stewart,2010-01-31,11,E221,samuel.stewart10@pinecrest-k12.org,Ava Stewart,astewart81@willowdispatch.net,(919) 958-5750,False,paid
+7999215,Leilani,Williams,2010-01-08,11,C178,leilani.williams10@pinecrest-k12.org,Emily Nguyen,emily_nguyen2@birchinbox.net,206-958-9638,True,reduced
+4644876,Camila,Torres,2011-08-25,10,B253,camila.torres11@pinecrest-k12.org,Nathan Torres,nathantorres24@willowdispatch.net,(713) 959-1168,False,free
+2195774,Tariq,Ferreira,2016-07-05,5,C229,tariq.ferreira16@pinecrest-k12.org,Grace Ferreira,grace_ferreira3@asterwire.net,(720) 959-4393,True,paid
+7356731,Gabriel,Martinez,2013-10-19,8,B128,gabriel.martinez13@pinecrest-k12.org,Jackson Coleman,jackson.coleman@cobaltletters.com,(281) 958-5932,False,paid
+9091517,Emily,Coleman,2012-03-02,9,E276,emily.coleman12@pinecrest-k12.org,Santiago Coleman,santiagocoleman70@tidalbox.net,(404) 958-4960,False,free
